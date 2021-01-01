@@ -1,8 +1,8 @@
 # main links
 main:
    - title: "clients"
-     url: /clients/
+     url: "/clients/"
    - title: "impressum"
      url: "/impressum/"
    - title: "team"
-     url: /team/
+     url: "/team/"
