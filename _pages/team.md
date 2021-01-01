@@ -13,18 +13,18 @@ description: "Core team and network"
 
 ### Juan Caballero 
 ![](/assets/images/juan250.jpg)
-* { [linkedin](https://linkedin.com/in/juan-caballero) | [keybase](https://keybase.io/by_caballero) | [email](jc@lp)}
 * Co-Founder and Community Lead
+* { [linkedin](https://linkedin.com/in/juan-caballero) | [keybase](https://keybase.io/by_caballero) | [email](jc@lp)}
 
 ### Balázs Nemethi 
 ![](/assets/images/baly250.jpg)
-* { [linkedin](https://linkedin.com/in/balazs-nemethi) | [email](bn@lp) }
 * Co-Founder and Strategy Lead
+* { [linkedin](https://linkedin.com/in/balazs-nemethi) | [email](bn@lp) }
 
 ### Jefferson Sofarelli 
 ![](/assets/images/jeff250.jpg)
-* { [linkedin](https://linkedin.com/in/jefferson-sofarelli) | [keybase](https://keybase.io/jmsofarelli) }
 * SourceCheck Co-Founder and Technical Lead; full-stack and decentralized identity
+* { [linkedin](https://linkedin.com/in/jefferson-sofarelli) | [keybase](https://keybase.io/jmsofarelli) }
 
 ## Extended Network 
 
