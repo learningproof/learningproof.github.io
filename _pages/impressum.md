@@ -2,8 +2,8 @@
 layout: single
 author_profile: true
 permalink: "/impressum/"
-title: "major and ongoing clients"
-description: "major and ongoing clients"
+title: "Legal declarations"
+description: "Declarations per German law for public entities"
 og_image: "/assets/images/banner2.jpg"
 ---
 
