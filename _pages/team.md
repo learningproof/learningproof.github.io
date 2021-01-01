@@ -24,6 +24,6 @@ A wide range of freelancers and freethinkers from past, current, and future proj
 * [Mikaella Clemens](https://www.mikaellaclements.com/) - Communications and Marketing
 * [Infominer](https://infominer.xyz/) - Research, Blockchain, #indieweb and Identity (Identosphere, Korsimoro)
 * Chris Kelly - Audiovisual, Communications, and Events
-* [Paula Kuhn](https://www.linkedin.com/in/paula-k%C3%BChn-045a031a0/) - Community/ecosystem management, UX, and Design
+* [Paula Kühn](https://www.linkedin.com/in/paula-k%C3%BChn-045a031a0/) - Community/ecosystem management, UX, and Design
 * [Katie Lally](https://www.linkedin.com/in/mklally/) - Publishing, Licensing, Research (SourceCheck)
 * [Kaliya Young](identitywoman.net) - Decentralized Identity & Standards Consulting (DIF, W3C, SVIP)
