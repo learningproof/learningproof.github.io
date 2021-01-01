@@ -12,15 +12,16 @@ description: "Core team and network"
 ## Core Team
 
 #### Juan Caballero 
-![](/assets/images/yosemite.img)
-* { [linkedin](https://linkedin.com/in/juan-caballero) | [keybase](https://keybase.io/by_caballero) }
+![](/assets/images/yosemite.jpg)
+* { [linkedin](https://linkedin.com/in/juan-caballero) | [keybase](https://keybase.io/by_caballero) | [email](jc@lp)}
 * Co-Founder and Community Lead
 
 #### Balázs Nemethi 
-* { [linkedin](https://linkedin.com/in/balazs-nemethi) }
+* { [linkedin](https://linkedin.com/in/balazs-nemethi) | [email](bn@lp) }
 * Co-Founder and Strategy Lead
 
-### Jefferson Sofarelli { [linkedin](https://linkedin.com/in/jefferson-sofarelli) | [keybase](https://keybase.io/jmsofarelli) }
+### Jefferson Sofarelli 
+* { [linkedin](https://linkedin.com/in/jefferson-sofarelli) | [keybase](https://keybase.io/jmsofarelli) }
 * SourceCheck Co-Founder and Technical Lead; full-stack and decentralized identity
 
 ## Extended Network 
@@ -28,6 +29,7 @@ description: "Core team and network"
 A wide range of freelancers and freethinkers from past, current, and future projects are connected to lP in a myriad of ways. In no order besides alphabetical, here are some key collaborators, advisors, and interlocutors:
 * Charles Cunningham - protocol engineering
 * Mikaella Clemens - communications and marketing
-* Infominer - research, blockchain and identity
+* Infominer - research, blockchain and identity (Identosphere, Korsimoro)
 * Chris Kelly - audiovisual, communications, and events
-* Kaliya Young (identitywoman.net) - decentralized identity & standards consulting
+* Katie Lally - publishing, licensing, research (SourceCheck)
+* Kaliya Young (identitywoman.net) - decentralized identity & standards consulting (DIF, W3C, SVIP)
