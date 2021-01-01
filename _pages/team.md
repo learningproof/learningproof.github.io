@@ -12,17 +12,17 @@ description: "Core team and network"
 ## Core Team
 
 ### Juan Caballero 
-![](/assets/images/juan250.jpg)
+![juan_mugshot](/assets/images/juan250.jpg)
 * Co-Founder and Community Lead
 * { [linkedin](https://linkedin.com/in/juan-caballero) | [keybase](https://keybase.io/by_caballero) | [email](jc@lp)}
 
 ### Balázs Nemethi 
-![](/assets/images/baly250.jpg)
+![balázs_mugshot](/assets/images/baly250.png)
 * Co-Founder and Strategy Lead
 * { [linkedin](https://linkedin.com/in/balazs-nemethi) | [email](bn@lp) }
 
 ### Jefferson Sofarelli 
-![](/assets/images/jeff250.jpg)
+![jefferson_mugshot](/assets/images/jeff250.jpg)
 * SourceCheck Co-Founder and Technical Lead; full-stack and decentralized identity
 * { [linkedin](https://linkedin.com/in/jefferson-sofarelli) | [keybase](https://keybase.io/jmsofarelli) }
 
