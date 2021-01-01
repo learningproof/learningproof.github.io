@@ -7,9 +7,6 @@ description: "Declarations per German law for public entities"
 og_image: "/assets/images/banner2.jpg"
 ---
 
-## Impressum
-
-
 {% include figure image_path="/assets/images/banner1.jpg" alt="decorative banner" %}
 
 #### Disclosures in accordance with § 5 TMG
