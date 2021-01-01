@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "juan caballero"
-  avatar           : "/assets/images/tinyface.jpg"
-  bio              : "researcher and writer at large"
+  name             : "learningProof"
+  avatar           : "/assets/images/small logo 100.jpg"
+  bio              : "Trustworthy solutions for communities and ecosystems"
   location         : "Berlin, Deutschland"
-  email            : "caballerojuan_at_pm_dot_me"
+  email            : "legal at learningproof dot xyz"
   links:
     - label: "Keybase"
       icon: "fab fa-fw fa-github"
