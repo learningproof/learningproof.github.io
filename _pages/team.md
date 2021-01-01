@@ -11,20 +11,11 @@ description: "Core team and network"
 
 ## Core Team
 
-### Juan Caballero 
-![juan_mugshot](/assets/images/juan250.jpg)
-* Co-Founder and Community Lead
-* { [linkedin](https://linkedin.com/in/juan-caballero) | [keybase](https://keybase.io/by_caballero) | [email](jc@lp)}
-
-### Balázs Nemethi 
-![balázs_mugshot](/assets/images/baly250.png)
-* Co-Founder and Strategy Lead
-* { [linkedin](https://linkedin.com/in/balazs-nemethi) | [email](bn@lp) }
-
-### Jefferson Sofarelli 
-![jefferson_mugshot](/assets/images/jeff250.jpg)
-* SourceCheck Co-Founder and Technical Lead; full-stack and decentralized identity
-* { [linkedin](https://linkedin.com/in/jefferson-sofarelli) | [keybase](https://keybase.io/jmsofarelli) }
+| Juan Caballero | Balázs Nemethi | Jefferson Sofarelli |
+|---|---|---|
+|![juan_mugshot](/assets/images/juan250.jpg)|![balazs_mugshot](/assets/images/baly250.png)|![jefferson_mugshot](/assets/images/jeff250.jpg)|
+| Co-Founder and Community Lead | Co-Founder and Strategy Lead | SourceCheck Co-Founder and Technical Lead; full-stack and decentralized identity |
+| [linkedin](https://linkedin.com/in/juan-caballero), [keybase](https://keybase.io/by_caballero), [email](jc@lp)} | [linkedin](https://linkedin.com/in/balazs-nemethi), [email](bn@lp) | [linkedin](https://linkedin.com/in/jefferson-sofarelli), [keybase](https://keybase.io/jmsofarelli) |
 
 ## Extended Network 
 
