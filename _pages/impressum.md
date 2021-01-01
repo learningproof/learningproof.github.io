@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: "/clients/"
+permalink: "/impressum/"
 title: "major and ongoing clients"
 description: "major and ongoing clients"
 og_image: "/assets/images/banner2.jpg"
