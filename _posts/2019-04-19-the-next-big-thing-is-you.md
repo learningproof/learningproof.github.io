@@ -25,7 +25,7 @@ defaults:
 
 ### tldr:
 
-*An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations*
+*Over a year ago, someone asked me for a personal essay on why I care so much about decentralized identity.  What I ended up with after a weekend of freewriting was more manifesto and jeremiad than explanation (technological or emotional) but I went with it and published on Medium.  I'm including it here as an overview of the context in which LearningProof does its work.  The original tagline was, "An optimistic introduction to what could come after the total sovereignty of the VC-funded cycle of disruptions and consolidations" and in this context I would only add that at LearningProof, we do only (and anything) we are confident moves our world closer to that "after."*
 
 ------
 
