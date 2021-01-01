@@ -8,6 +8,7 @@ excerpt: "Trustworthy solutions for communities and ecosystems"
 <br>
 
 learningProof aG is a [Berlin-based](/impressum/) consultancy that supports a wide range of identity, payments, and community organizations.  We specializing in all aspects of:
+
 * open-source technology
 * communications and strategy
 * emerging standards 
