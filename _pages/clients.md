@@ -3,12 +3,11 @@ layout: single
 author_profile: true
 permalink: "/clients/"
 title: "Clients and Partnerships"
-description: "major and ongoing clients"
+description: "Clients and Partnerships"
 og_image: "/assets/images/banner2.jpg"
 ---
 
-&nbsp;
-{% include figure image_path="/assets/images/banner2.jpg" alt="all work and no play" %}
+{% include figure image_path="/assets/images/banner2.jpg" alt="decorative banner" %}
 
 ### Major Clients (updated january 2020): 
 
