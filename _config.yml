@@ -112,12 +112,9 @@ author:
   location         : "Berlin, Deutschland"
   email            : "legal at learningproof dot xyz"
   links:
-    - label: "Keybase"
-      icon: "fab fa-fw fa-github"
-      url: "https://keybase.io/by_caballero"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/juan-caballero"
+      url: "https://www.linkedin.com/company/learningproof/"
 
 # Site Footer
 footer:
