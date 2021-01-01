@@ -15,7 +15,7 @@ description: "Core team and network"
 |---|---|---|
 |![juan_mugshot](/assets/images/juan250.jpg)|![balazs_mugshot](/assets/images/baly250.png)|![jefferson_mugshot](/assets/images/jeff250.jpg)|
 | Co-Founder and Community Lead | Co-Founder and Strategy Lead | SourceCheck Technical Lead |
-| [linkedin](https://linkedin.com/in/juan-caballero), [keybase](https://keybase.io/by_caballero), [email](jc@lp)} | [linkedin](https://linkedin.com/in/balazs-nemethi), [email](bn@lp) | [linkedin](https://linkedin.com/in/jefferson-sofarelli), [keybase](https://keybase.io/jmsofarelli) |
+| [linkedin](https://linkedin.com/in/juan-caballero), [keybase](https://keybase.io/by_caballero), [email](jc@lp) | [linkedin](https://linkedin.com/in/balazs-nemethi), [email](bn@lp) | [linkedin](https://linkedin.com/in/jefferson-sofarelli), [keybase](https://keybase.io/jmsofarelli) |
 
 ## Extended Network 
 
