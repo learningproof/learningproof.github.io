@@ -1,8 +1,8 @@
 # main links
 main:
-   - title: "projects"
-     url: /projects/
-   - title: "cv"
-     url: "/assets/static/cv.pdf"
-   - title: "blog"
-     url: /blog/
+   - title: "clients"
+     url: /clients/
+   - title: "impressum"
+     url: "/impressum/"
+   - title: "team"
+     url: /team/
