@@ -20,7 +20,6 @@ description: "Core team and network"
 ## Extended Network 
 
 A wide range of freelancers and freethinkers from past, current, and future projects are connected to the learningProof in myriad ways. In no order besides alphabetical, here are some key collaborators, advisors, and interlocutors:
-* [Charles Cunningham](https://www.linkedin.com/in/charles-cunningham-710085139/) - Protocol engineering
 * [Infominer](https://infominer.xyz/) - Research, Blockchain, #indieweb and Identity (Identosphere, Korsimoro)
 * Chris Kelly - Audiovisual, Communications, and Events
 * [Paula Kühn](https://www.linkedin.com/in/paula-k%C3%BChn-045a031a0/) - Community/ecosystem management, UX, and Design
