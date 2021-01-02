@@ -21,7 +21,7 @@ description: "Core team and network"
 
 A wide range of freelancers and freethinkers from past, current, and future projects are connected to the learningProof in myriad ways. In no order besides alphabetical, here are some key collaborators, advisors, and interlocutors:
 * [Infominer](https://infominer.xyz/) - Research, Blockchain, #indieweb and Identity (Identosphere, Korsimoro)
-* Chris Kelly - Audiovisual, Communications, and Events
+* [Chris Kelly](https://www.linkedin.com/in/chris-kelly-b5b539b4/) - Audiovisual, Communications, and Events
 * [Paula Kühn](https://www.linkedin.com/in/paula-k%C3%BChn-045a031a0/) - Community/ecosystem management, UX, and Design
 * [Katie Lally](https://www.linkedin.com/in/mklally/) - Publishing, Licensing, Research (SourceCheck)
 * [Laura Pierson Wadden](https://lpw.io/) - DevOps, infrastructure
