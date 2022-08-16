@@ -12,7 +12,7 @@ og_image: "/assets/images/banner2.jpg"
 #### Disclosures in accordance with § 5 TMG
 
 #### Company Name: 
-learningProoG aG (haftungsbeschränkt)
+learningProoG UG (haftungsbeschränkt)
 
 #### Address: 
 Kopenhagenerstr. 8 und viersig
