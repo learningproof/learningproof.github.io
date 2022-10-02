@@ -28,10 +28,9 @@ Registry court: Amtsgericht Berlin (Charlottenburg)
 
 #### Register number: 
 
-HRB 222871 B
-
-USt-IdNr: DE 3624902298
-
+* HRB 222871 B
+* USt-IdNr: DE 3624902298
+* MWSt-Nr: DE 339336615
 
 #### Managing Directors
 Juan Caballero (Berlin)
